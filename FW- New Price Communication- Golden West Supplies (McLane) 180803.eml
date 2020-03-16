@@ -1,0 +1,268 @@
+Received: from DM6PR10MB3257.namprd10.prod.outlook.com (2603:10b6:3:12b::26)
+ by DM6PR10MB3548.namprd10.prod.outlook.com with HTTPS via
+ DM5PR04CA0040.NAMPRD04.PROD.OUTLOOK.COM; Thu, 5 Mar 2020 16:25:13 +0000
+Received: from DM6PR10MB3548.namprd10.prod.outlook.com (2603:10b6:5:17b::29)
+ by DM6PR10MB3257.namprd10.prod.outlook.com (2603:10b6:5:1a1::15) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2772.15; Thu, 5 Mar
+ 2020 16:25:12 +0000
+Received: from DM6PR10MB3548.namprd10.prod.outlook.com
+ ([fe80::d401:8fc4:6825:d481]) by DM6PR10MB3548.namprd10.prod.outlook.com
+ ([fe80::d401:8fc4:6825:d481%6]) with mapi id 15.20.2772.019; Thu, 5 Mar 2020
+ 16:25:12 +0000
+From: Tyler McFadden <Tyler.McFadden@mclanefs.com>
+To: Tyler McFadden <Tyler.McFadden@mclanefs.com>
+Subject: FW: New Price Communication: Golden West Supplies (McLane) 180803
+Thread-Topic: New Price Communication: Golden West Supplies (McLane) 180803
+Thread-Index: AQHV8wql4amN1zx8AEqbR948s2Rw7A==
+Date: Thu, 5 Mar 2020 16:25:12 +0000
+Message-ID: <DM6PR10MB3548A4DFDB26DCF1031C9FBDF2E20@DM6PR10MB3548.namprd10.prod.outlook.com>
+References: <BYAPR15MB267778A43B75C5BF8ECC2327E7000@BYAPR15MB2677.namprd15.prod.outlook.com>
+In-Reply-To: <BYAPR15MB267778A43B75C5BF8ECC2327E7000@BYAPR15MB2677.namprd15.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM6PR10MB3548.namprd10.prod.outlook.com
+X-MS-Exchange-Organization-ComplianceLabelId: 145b4a83-ea8d-4a8e-b73f-a032d0112c84
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: cf8d4ad9-b780-45b3-d681-08d7c121c7bd
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-exchange-organization-originalclientipaddress: 12.161.66.6
+x-ms-exchange-organization-originalserveripaddress: 2603:10b6:5:17b::29
+x-originating-ip: [12.161.66.6]
+authentication-results: mclanefs.com; dkim=none (message not signed)
+ header.d=none;mclanefs.com; dmarc=none action=none header.from=mclanefs.com;
+x-ms-office365-filtering-correlation-id: cf8d4ad9-b780-45b3-d681-08d7c121c7bd
+x-microsoft-antispam: BCL:0;
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: DM6PR10MB3257:
+x-forefront-antispam-report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM6PR10MB3257;H:DM6PR10MB3548.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-exchange-crosstenant-originalarrivaltime: 05 Mar 2020 16:25:12.5013 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-id: ba8c3e98-c516-43c9-b215-22a34b1734be
+x-ms-exchange-transport-crosstenantheadersstamped: DM6PR10MB3257
+x-ms-oob-tlc-oobclassifiers: OLM:4502;
+x-ms-exchange-antispam-messagedata: u/1xaeS+X+ETDZOA3syzd6ZYrM4rW3pZbIhq4j1HVkE5RZWZaQ8P8UZZ0eAst/7hJN1vt6BxIkgxgznKrmmbGDmUE1zA1J0VwHsOQg7qEsS9DPm1mTltf15gNUP0xxB5JekbUmdjnFuZzVgOQr5tEA==
+x-ms-exchange-crosstenant-network-message-id: cf8d4ad9-b780-45b3-d681-08d7c121c7bd
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname: iMfDqhelMILzm1ZcLMRm4xxjFTI8YRAywih4HYdYfVIJt8CQnp0ydXKiztu68RC0J/Fs1dAB0sBxanCK8supDV/50jERxMsqX+Wv9bD4/+k=
+x-ms-exchange-transport-endtoendlatency: 00:00:01.2163675
+x-ms-exchange-processed-by-bccfoldering: 15.20.2772.017
+X-Microsoft-Antispam-Mailbox-Delivery: ucf:0;jmr:0;auth:0;dest:I;ENG:(750127)(520011016)(706158)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info: tvUyDcCuL9Fjo7NvTQ0S5przDMOU/O+VmVGyjoLUjjEyzw+9AkTGtirKwPOiZ8TmQxok0J4H671yZ5gEZGnh5xKnNH5Sr3oKCMAxKGQg+E6fx7EI78vTuoY0xZYfi0JKltFdEafkJP1Y6yrbjNccY4m+NncPNAW1LLZcx3tAS6QAKOIISt9Bflr0S+kX08UymakX/zMzV6NaXyaebY6IxTsvnSpdPMzl5IO8bHZwqJRvkw0aOL8+tvH2nbZ/0EUZJ+ngbtISJA0Nqh/NhWYD4z09fAY3JwpweTRFYtzr1rHhpEzqLiS0wq2bm7HyrhiO1yE+MXhoSg0ttweSYoJF/FXVOMmdei7+BAaH6/VIlHrhSTPsZWVdLryxq1k93ijBNAsSMbEEv8/GTQlJyh0V0Y0LjPZs6Cq+5a1Npiezzn92/vyi13wDDjnsrmrtiEXfiQfUgrsk481uR9HZ9PEgtw==
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+=20
+
+=20
+
+From: Carmen Cong [mailto:Carmen.Cong@PandaRG.com]=20
+Sent: Monday, February 03, 2020 1:57 PM
+To: Tyler McFadden <Tyler.McFadden@mclanefs.com>; vds-pandaexpress <vds-pan=
+daexpress@mclaneFS.com>
+Cc: Terrance Longino <Terrance.Longino@PandaRG.com>; Carmen Cong <Carmen.Co=
+ng@PandaRG.com>; Betty Hui <Betty.Hui@PandaRG.com>; Joyce Ng <Joyce.Ng.2@Pa=
+ndaRG.com>
+Subject: New Price Communication: Golden West Supplies (McLane) 180803
+
+=20
+
+** STOP. THINK. External Email **
+
+_______________________________
+
+=20
+
+Hi Team,
+
+=20
+
+Please see new pricing below for Golden West Supplies. Pricing is effective=
+ 2/1/2020 based on ORDER date.
+
+=20
+
+
+DC Vendor
+
+DC Mfr. Item #
+
+DC Name
+
+DC Item #
+
+DC Item Description
+
+Price Effective On
+
+Price Type
+
+Start Date
+
+End Date
+
+UOM
+
+Cost
+
+Freight Cost
+
+Landed Cost
+
+
+GOLDEN WEST SUPPLIES
+
+CPS002
+
+McLane-Arl
+
+180803
+
+CHOPSTICKS WOODEN RED/WHT PE
+
+Order Date
+
+FOB
+
+02/01/2020
+
+12/31/2020
+
+Cases
+
+$ 49.50=20
+
+$ 6.03=20
+
+$ 55.53=20
+
+
+GOLDEN WEST SUPPLIES
+
+CPS002
+
+McLane-Atl
+
+180803
+
+CHOPSTICKS WOODEN RED/WHT PE
+
+Order Date
+
+FOB
+
+02/01/2020
+
+12/31/2020
+
+Cases
+
+$ 49.50=20
+
+$ 8.32=20
+
+$ 57.82=20
+
+
+GOLDEN WEST SUPPLIES
+
+CPS002
+
+McLane-Heb
+
+180803
+
+CHOPSTICKS WOODEN RED/WHT PE
+
+Order Date
+
+FOB
+
+02/01/2020
+
+12/31/2020
+
+Cases
+
+$ 49.50=20
+
+$ 8.98=20
+
+$ 58.48=20
+
+
+GOLDEN WEST SUPPLIES
+
+CPS002
+
+McLane-Mil
+
+180803
+
+CHOPSTICKS WOODEN RED/WHT PE
+
+Order Date
+
+FOB
+
+02/01/2020
+
+12/31/2020
+
+Cases
+
+$ 49.50=20
+
+$ 7.68=20
+
+$ 57.18=20
+
+
+GOLDEN WEST SUPPLIES
+
+CPS002
+
+McLane-Pho
+
+180803
+
+CHOPSTICKS WOODEN RED/WHT PE
+
+Order Date
+
+FOB
+
+02/01/2020
+
+12/31/2020
+
+Cases
+
+$ 49.50=20
+
+$ 6.08=20
+
+$ 55.58=20
+
+=20
+
+=20
+
+Thank you,
+
+=20
+
+Carmen Cong
+
+Supply Chain Management=20
+
+Panda Restaurant Group, Inc.=20
+
+(626)799-9898 ext. 8225
+
+=20
+
